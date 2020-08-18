@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ⅱ·Ⅳ·终末档案库</title>
+  
+  <subtitle>来自所有二十四次轮回</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-17T18:58:36.685Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>白渡WhiteRice</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《虚实缝隙，你和我》</title>
+    <link href="http://yoursite.com/2020/08/17/%E8%99%9A%E5%AE%9E%E7%BC%9D%E9%9A%99%EF%BC%8C%E4%BD%A0%E5%92%8C%E6%88%91/"/>
+    <id>http://yoursite.com/2020/08/17/%E8%99%9A%E5%AE%9E%E7%BC%9D%E9%9A%99%EF%BC%8C%E4%BD%A0%E5%92%8C%E6%88%91/</id>
+    <published>2020-08-17T10:25:31.000Z</published>
+    <updated>2020-08-17T18:58:36.685Z</updated>
+    
+    <content type="html"><![CDATA[<p>等待更新…..</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;等待更新…..&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="《Ⅰ·把话放在日光下》" scheme="http://yoursite.com/categories/%E3%80%8A%E2%85%A0%C2%B7%E6%8A%8A%E8%AF%9D%E6%94%BE%E5%9C%A8%E6%97%A5%E5%85%89%E4%B8%8B%E3%80%8B/"/>
+    
+    
+    <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ⅰ·hello new world</title>
+    <link href="http://yoursite.com/2020/08/15/%E2%85%A0%C2%B7hello-new-world/"/>
+    <id>http://yoursite.com/2020/08/15/%E2%85%A0%C2%B7hello-new-world/</id>
+    <published>2020-08-15T11:40:38.000Z</published>
+    <updated>2020-08-18T05:25:39.560Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World！<br>这里是白渡，你也可以称我为WhiteRice，白饭，或是白米饭。<br>欢迎来到我的博客，我将会在这里更新一些杂七杂八的东西。<br>包括且不限于【Ⅱ·Ⅳ·终末】档案馆系列、一些奇奇怪怪东西的教程、个人脑洞。<br>愿您生活愉快。<br>以上。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello World！&lt;br&gt;这里是白渡，你也可以称我为WhiteRice，白饭，或是白米饭。&lt;br&gt;欢迎来到我的博客，我将会在这里更新一些杂七杂八的东西。&lt;br&gt;包括且不限于【Ⅱ·Ⅳ·终末】档案馆系列、一些奇奇怪怪东西的教程、个人脑洞。&lt;br&gt;愿您生活愉快。&lt;br&gt;以上</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
